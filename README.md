@@ -35,3 +35,5 @@ We will use the following python packages:
 ## Errata
 
 If you find an error in the book please fill an issue or send a PR [here](https://github.com/aloctavodia/BAP)
+
+## Note this repo was modified and it works on newer versions of the libraries. Use the `environment.yml` to reproduce the conda environment.
